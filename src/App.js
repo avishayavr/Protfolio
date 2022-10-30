@@ -5,7 +5,7 @@ import {
   AboutComp,
   ExperienceComp,
   Services,
-  Portfolio,
+  Projects,
   Testimonials,
   ContactComp,
   Footer,
@@ -19,8 +19,8 @@ const App = () => {
       <AboutComp />
       <ExperienceComp />
       <Services />
-      <Portfolio />
-      <Testimonials />
+      <Projects />
+      {/* <Testimonials /> */}
       <ContactComp />
       <Footer />
     </>
