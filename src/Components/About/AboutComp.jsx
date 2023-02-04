@@ -5,7 +5,6 @@ import ME from "../../assets/me-about.png";
 const AboutComp = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
       <h2>About Me</h2>
 
       <div className="container about-container">
@@ -22,7 +21,7 @@ const AboutComp = () => {
             </article>
           </div> */}
 
-          <p>Highly motivated and passionate full-stack web developer.</p>
+          <p>I highly motivated and passionate full-stack web developer.</p>
           <p>
             I have a background in both front-end and back-end development,
             using technologies such as HTML, CSS, JavaScript, and Node.js.

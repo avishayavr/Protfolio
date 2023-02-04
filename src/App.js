@@ -4,9 +4,7 @@ import {
   Nav,
   AboutComp,
   ExperienceComp,
-  Services,
   Projects,
-  Testimonials,
   ContactComp,
   Footer,
 } from "./Components";
@@ -18,9 +16,7 @@ const App = () => {
       <Nav />
       <AboutComp />
       <ExperienceComp />
-      {/* <Services /> */}
       <Projects />
-      {/* <Testimonials /> */}
       <ContactComp />
       <Footer />
     </>

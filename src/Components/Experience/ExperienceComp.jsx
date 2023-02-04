@@ -28,6 +28,10 @@ const ExperienceComp = () => {
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icons" />
+              <h4>Tailwind</h4>
+            </article>
+            <article className="experience-details">
+              <BsPatchCheckFill className="experience-details-icons" />
               <h4>React</h4>
             </article>
           </div>
@@ -38,19 +42,19 @@ const ExperienceComp = () => {
           <div className="experience-content">
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icons" />
-              <h4>Node JS</h4>
+              <h4>Node JS - Express</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icons" />
-              <h4>MongoDB</h4>
+              <h4>SQL - MySQL</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icons" />
-              <h4>MySQL</h4>
+              <h4>NoSQL - MongoDB</h4>
             </article>
             <article className="experience-details">
               <BsPatchCheckFill className="experience-details-icons" />
-              <h4>Python</h4>
+              <h4>Python - Flask</h4>
             </article>
           </div>
         </div>

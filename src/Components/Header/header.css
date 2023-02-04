@@ -60,17 +60,17 @@ header {
 }
 
 /* media query (medium devices) */
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   header {
     height: 68vh;
   }
-}
+} */
 
 /* media query (small devices) */
 @media screen and (max-width: 600px) {
-  header {
+  /* header {
     height: 100vh;
-  }
+  } */
 
   .header-socials,
   .scroll-down {

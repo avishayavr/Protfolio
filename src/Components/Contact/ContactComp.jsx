@@ -11,10 +11,10 @@ const ContactComp = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_hm6upvi",
-      "template_r6ui06j",
+      "service_b4ab5ap",
+      "template_k50qx4k",
       form.current,
-      "rr2P-GhFRglj6K8gv"
+      "18V1d5IJ4IvO8j1tj"
     );
 
     e.target.reset();
@@ -41,7 +41,7 @@ const ContactComp = () => {
             <h4>Whatsapp</h4>
             <h5>+972***</h5>
             <a
-              href="http://api.whatsapp.com/send?phone=+9720504335393"
+              href="http://api.whatsapp.com/send?phone=9720504335393"
               target="_blank"
             >
               Send a message
