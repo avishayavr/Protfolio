@@ -2,7 +2,7 @@ import React from 'react'
 import "./projects.css"
 import img1 from "../../assets/project2.png"
 import img2 from "../../assets/project1.png"
-const data = [{url:img1,title:"Ecommerce", gitHub:"https://github.com/avishayavr/protfolio", liveDemo:"https://anime-products.vercel.app/"},
+const data = [{url:img1,title:"Ecommerce", gitHub:"https://github.com/avishayavr/Anime-Products", liveDemo:"https://anime-products.vercel.app/"},
 {url:img2,title:"TV-shows", gitHub:"https://github.com/avishayavr/TV-Shows", liveDemo:"https://github.com/avishayavr/TV-Shows"}]
 
 
